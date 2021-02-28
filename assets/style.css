@@ -83,11 +83,6 @@ justify-content: center;
 }
 
 /* Portfolio section with image stylings */
-
-#portfolio{
-    flex-wrap: wrap;
-}
-
 #portfolio h1{
     padding-top: 1%;
     display: flex;
